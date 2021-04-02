@@ -1,0 +1,5 @@
+*.pdf
+*.ipybn_checkpoints
+__.ipybn_checkpoints__
+__Fluent_python__/
+*
